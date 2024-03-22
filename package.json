@@ -1,0 +1,22 @@
+{
+  "name": "cumqueeos",
+  "version": "1.12.0",
+  "description": "ETH ERC20 standard contracts",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MandyRippin/cumqueeos.git"
+  },
+  "author": "DaijaRutherford",
+  "license": "MIT",
+  "keywords": [
+    "labore",
+    "et"
+  ],
+  "dependencies": {
+    "insuscipit": "^1.0.0",
+    "maioresratione": "^1.0.0",
+    "truffle": "4.1.13",
+    "truffle-hdwallet-provider": "0.0.5"
+  }
+}
